@@ -1,0 +1,14 @@
+{
+  "name": "dythm-paradise",
+  "version": "0.5.0",
+  "description": "[DP] allows you to play at various mini-games from the 'Rythm Paradise' license.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeKurozifuru",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "not-a-funny-pun",
+  "version": "0.0.0",
+  "description": "Your friends are terrible at puns? Remind them easily with this bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LeKurozifuru",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "mongoose": "^5.9.18"
+  }
+}
