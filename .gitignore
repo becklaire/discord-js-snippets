@@ -1,4 +1,5 @@
 **/.env
 **/node_modules
 **/config.json
+**/package-lock.json
 not-a-funny-pun/config.js

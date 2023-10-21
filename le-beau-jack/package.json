@@ -1,5 +1,15 @@
 {
+  "name": "le-beau-jack",
+  "version": "0.0.0",
+  "description": "Jimmy, n'oublies pas ta prochaine game avec ces fameux chasseurs de chasseurs de l'arche... Compris ?!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "beklaire",
+  "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.13.0"
+    "discord.js": "^14.13.0",
+    "mongoose": "^5.9.18"
   }
 }
