@@ -9,7 +9,6 @@
   "author": "beklaire",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.13.0",
-    "mongoose": "^5.9.18"
+    "discord.js": "^14.13.0"
   }
 }
