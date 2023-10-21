@@ -1,18 +1,5 @@
 {
   "dependencies": {
-    "@discordjs/voice": "^0.16.0",
     "discord.js": "^14.13.0"
-  },
-  "name": "le-beau-jack",
-  "version": "1.0.0",
-  "description": "Jimmy, n'oublies pas ta prochaine game avec ces fameux chasseurs de chasseurs de l'arche... Compris ?!",
-  "main": "index.js",
-  "devDependencies": {
-    "eslint": "^8.51.0"
-  },
-  "scripts": {
-    "test": "/"
-  },
-  "author": "becklaire",
-  "license": "ISC"
+  }
 }
